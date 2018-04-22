@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "create-react-app": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwangsunsoo/react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sunsoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwangsunsoo/react/issues"
+  },
+  "homepage": "https://github.com/hwangsunsoo/react#readme"
+}
